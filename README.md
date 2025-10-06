@@ -1,0 +1,1 @@
+This Python-based network scanner detects devices within a network and captures packets for analysis. It uses the Scapy library and offers an easy-to-use interface for performing network diagnostics and security evaluations.
